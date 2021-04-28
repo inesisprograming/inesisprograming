@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hey there, I'm Nessie! :dog:
+## **About me**
+<ul>
 
-<!--
-**inesisprograming/inesisprograming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<li>:rabbit: Recently became interested in competitive programming</li>
 
-Here are some ideas to get you started:
+<li>:dog: I would like to become a CS student (currently in High School)</li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li>:hamster: Spanish is my first language, English my second, and French my third. Currently learning Japanese!</li>
+
+</ul>
+<br>
+
+## **Tech Stack**
+<ul>
+
+<li>:white_flower: **Languages currently learning:** C++ | Kotlin</li>
+
+<li>:white_flower: **I program with:** HTML | CSS | JavaScript | Python</li>
+
+<li>:white_flower: **IDEs I use:** Android Studio | Visual Studio Code</li>
+
+<li>:white_flower: **Design tools I use:** Figma | Framer</li>
+
+</ul>
+<br>
+<br>
+
+[![Nessie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inesisprograming&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compacticons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
