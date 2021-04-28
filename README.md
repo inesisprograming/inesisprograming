@@ -1,5 +1,5 @@
 # Hey there, I'm Nessie! :dog:
-## **About me**
+### **About me**
 <ul>
 
 <li>:rabbit: Recently became interested in competitive programming</li>
@@ -11,7 +11,7 @@
 </ul>
 <br>
 
-## **Tech Stack**
+### **Tech Stack**
 <ul>
 
 <li>:white_flower: Languages currently learning: C++ | Kotlin</li>
