@@ -33,7 +33,7 @@
 <br>
 <br>
 ### **I'm also on:**
-<a href="https://codepen.io/inesisprogramming" target="_blank"><img alt="codepen" src="https://blog.codepen.io/wp-content/uploads/2012/06/codepen-wordmark-display-inside-black@10x.png" width="300px"/></a>
+<a href="https://codepen.io/inesisprogramming" target="_blank"><img alt="codepen" src="https://s3.amazonaws.com/media.eremedia.com/wp-content/uploads/2018/05/31112343/Codepen.png" width="300px"/></a>
 <br>
 <a href="https://codeforces.com/profile/inesisprograming" target="_blank"><img alt="codeforces" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png" width="200px"/></a>
 
