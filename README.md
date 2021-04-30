@@ -32,8 +32,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compacticons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-### **Cath me at:**
-<a href="https://codepen.io/inesisprogramming" target="_blank"><img alt="codepen" url="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" width="100px"/></a>
+### **I'm also on:**
+<a href="https://codepen.io/inesisprogramming" target="_blank"><img alt="codepen" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" width="100px"/></a>
 <br>
-<a href="https://codeforces.com/profile/inesisprograming" target="_blank"><img alt="codeforces" url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png" width="200px"/></a>
+<a href="https://codeforces.com/profile/inesisprograming" target="_blank"><img alt="codeforces" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png" width="200px"/></a>
 
