@@ -7,7 +7,6 @@
 <li>:hamster: ES/EN/FR</li>
 
 </ul>
-<br>
 
 ### **Tech stuff**
 <ul>
