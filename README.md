@@ -1,22 +1,20 @@
-# Hey there, I'm Nessie! :dog:
+# Hey there, I'm Inés!
 ### **About me**
 <ul>
 
-<li>:rabbit: Recently became interested in competitive programming</li>
+<li>:bug: Studying computer science</li>
 
-<li>:bug: I would like to become a CS student (currently in High School)</li>
-
-<li>:hamster: Spanish is my first language, English my second, and French my third. Currently learning Japanese!</li>
+<li>:hamster: ES/EN/FR</li>
 
 </ul>
 <br>
 
-### **Tech Stack**
+### **Tech stuff**
 <ul>
 
-<li>:white_flower: Languages currently learning: C++ | Kotlin</li>
+<li>:white_flower: Languages currently learning: C++ | Kotlin | Python | Javascript</li>
 
-<li>:white_flower: I program with: HTML | CSS | JavaScript | Python</li>
+<li>:white_flower: I know: HTML | CSS</li>
 
 <li>:white_flower: IDEs I use: Android Studio | Visual Studio Code</li>
 
@@ -33,7 +31,4 @@
 <br>
 <br>
 ### **I'm also on:**
-<a href="https://codepen.io/inesisprogramming" target="_blank"><img alt="codepen" src="https://s3.amazonaws.com/media.eremedia.com/wp-content/uploads/2018/05/31112343/Codepen.png" width="300px"/></a>
-<br>
-<a href="https://codeforces.com/profile/inesisprograming" target="_blank"><img alt="codeforces" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png" width="200px"/></a>
-
+<a href="https://codepen.io/inesisprogramming" target="_blank"><img alt="codepen" src="https://findicons.com/files/icons/2773/pictonic_free/256/codepen_02.png" width="300px"/></a>
