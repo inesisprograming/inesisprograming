@@ -20,14 +20,3 @@
 <li>:white_flower: Design tools I use: Figma | Framer</li>
 
 </ul>
-<br>
-<br>
-
-[![Nessie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inesisprograming&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compacticons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-### **I'm also on:**
-<a href="https://codepen.io/inesisprogramming" target="_blank"><img alt="codepen" src="https://findicons.com/files/icons/2773/pictonic_free/256/codepen_02.png" width="300px"/></a>
